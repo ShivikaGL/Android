@@ -1,4 +1,5 @@
 #test yaml file
+#build stage
 name: hello-world
 on: push
 jobs:
